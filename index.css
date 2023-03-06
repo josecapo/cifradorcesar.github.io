@@ -1,0 +1,28 @@
+
+
+#img-center{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+h1{
+    color: blue;
+    text-align: center;
+}
+
+h2{
+    color: rgb(155, 41, 140);
+    text-align: center;
+
+}
+
+section#honor{
+    color: rgb(185, 166, 158);
+}
+
+.cambiar{
+    font-weight: 200;
+    color: blueviolet;
+}
+
